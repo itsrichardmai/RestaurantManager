@@ -7,7 +7,8 @@
       "Bash(npm init:*)",
       "Bash(npm install:*)",
       "Bash(npm run lint)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(ls:*)"
     ]
   }
 }
